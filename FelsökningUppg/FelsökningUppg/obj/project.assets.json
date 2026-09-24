@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Felsökningar\\FelsökningUppg\\FelsökningUppg\\FelsökningUppg.csproj",
+      "projectUniqueName": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Fels-kningar\\FelsökningUppg\\FelsökningUppg\\FelsökningUppg.csproj",
       "projectName": "FelsökningUppg",
-      "projectPath": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Felsökningar\\FelsökningUppg\\FelsökningUppg\\FelsökningUppg.csproj",
+      "projectPath": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Fels-kningar\\FelsökningUppg\\FelsökningUppg\\FelsökningUppg.csproj",
       "packagesPath": "C:\\Users\\Sheno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Felsökningar\\FelsökningUppg\\FelsökningUppg\\obj\\",
+      "outputPath": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Fels-kningar\\FelsökningUppg\\FelsökningUppg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

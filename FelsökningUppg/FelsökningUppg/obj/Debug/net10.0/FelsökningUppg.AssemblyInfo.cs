@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FelsökningUppg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+990726cf44427227e6a19cd809354994c7f2f4cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28b9e9ff88d8375a724ab8db002b31e43d80c603")]
 [assembly: System.Reflection.AssemblyProductAttribute("FelsökningUppg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FelsökningUppg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

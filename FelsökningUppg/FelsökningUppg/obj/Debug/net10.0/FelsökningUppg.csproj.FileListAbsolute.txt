@@ -1,0 +1,16 @@
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\bin\Debug\net10.0\FelsökningUppg.exe
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\bin\Debug\net10.0\FelsökningUppg.deps.json
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\bin\Debug\net10.0\FelsökningUppg.runtimeconfig.json
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\bin\Debug\net10.0\FelsökningUppg.dll
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\bin\Debug\net10.0\FelsökningUppg.pdb
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.AssemblyInfoInputs.cache
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.AssemblyInfo.cs
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.csproj.CoreCompileInputs.cache
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.sourcelink.json
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.dll
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\refint\FelsökningUppg.dll
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.pdb
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\FelsökningUppg.genruntimeconfig.cache
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\ref\FelsökningUppg.dll
+C:\Users\Sheno\source\repos\GitHub\Fels-kningar\FelsökningUppg\FelsökningUppg\obj\Debug\net10.0\Fels_kni.CDB5C5B2.Up2Date

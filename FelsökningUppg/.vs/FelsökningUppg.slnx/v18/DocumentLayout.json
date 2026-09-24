@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Fels-kningar\\Fels\u00F6kningUppg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{320215F8-6C88-8298-FD50-64D22DDF6B32}|Fels\u00F6kningUppg\Fels\u00F6kningUppg.csproj|c:\\users\\sheno\\source\\repos\\github\\fels\u00F6kningar\\fels\u00F6kninguppg\\fels\u00F6kninguppg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{320215F8-6C88-8298-FD50-64D22DDF6B32}|Fels\u00F6kningUppg\\Fels\u00F6kningUppg.csproj|c:\\users\\sheno\\source\\repos\\github\\fels-kningar\\fels\u00F6kninguppg\\fels\u00F6kninguppg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320215F8-6C88-8298-FD50-64D22DDF6B32}|Fels\u00F6kningUppg\\Fels\u00F6kningUppg.csproj|solutionrelative:fels\u00F6kninguppg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "Fels\u00F6kningUppg\\Program.cs",
               "ToolTip": "C:\\Users\\Sheno\\source\\repos\\GitHub\\Fels-kningar\\Fels\u00F6kningUppg\\Fels\u00F6kningUppg\\Program.cs",
               "RelativeToolTip": "Fels\u00F6kningUppg\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T08:13:36.227Z",
+              "WhenOpened": "2026-09-24T07:18:51.846Z",
               "EditorCaption": ""
             }
           ]
